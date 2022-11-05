@@ -1,2 +1,16 @@
 # EarthEats
-Eat today and save for tomorrow!
+### Eat today and save for tomorrow!
+
+<p align="center">
+ <img src="https://github.com/EarthEats/.github/blob/main/profile/EarthEatsLogo.jpg" align="center" alt="CSI" />
+</p>
+
+## GOALS AND TARGET
+- ### LESS FOOD WASTEAGE:
+       Via this platfrom , an event organizer can save food wasteage by giving corresponding food availability and can hoard the 
+       food a nearly 50-65% market cost, thus avoiding loses
+ - ### CHEAP AVAILABILITY OF FOOD:
+       An Important factor apart from raw materials and fuel required is TIME. This TIME factor pursuades many to buy food from
+       external sources.Via this app we can reduce the expenditure and in some scenario reduce the public hunger.
+ 
+ - ### REDUCE LOSS FOR FRUITS & VEGETABLE VENDORS:
