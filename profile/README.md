@@ -1,5 +1,5 @@
-# EarthEats
-### Eat today and save for tomorrow!
+# **EarthEats**
+### *Eat today and save for tomorrow!*
 
 <p align="center">
  <img src="https://github.com/EarthEats/.github/blob/main/profile/EarthEatsLogo.jpg" align="center" alt="CSI" />
@@ -14,3 +14,12 @@
        external sources.Via this app we can reduce the expenditure and in some scenario reduce the public hunger.
  
  - ### REDUCE LOSS FOR FRUITS & VEGETABLE VENDORS:
+       Vendors can put fruits and vegetables along with viability period left and this factor decides the cost of their item.
+       This reduces the stress on these vendors preventing excess use of pesticides.
+      
+- ### REDUCE LIFESTYLE DESEASES:
+       Apart from banishing the usage of pesticide we tend to reduce the unpopular culture of using food after long refrigeration
+       via this platform as we supply excess food to the demand chain.
+       
+- ### EMPLOYEMENT OPPURTUNITY: 
+       Many get part time job as deliveryboy providing them additional income.
